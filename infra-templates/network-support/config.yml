@@ -1,0 +1,7 @@
+name: Rancher Network Support Tool
+description: |
+  Rancher Network Support Tool
+version: dev
+category: Framework
+labels:
+  io.rancher.certified: rancher
