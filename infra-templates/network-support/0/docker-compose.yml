@@ -3,7 +3,6 @@ services:
   network-support:
     image: leodotcloud/network-support:dev
     privileged: true
-    network_mode: host
     pid: host
     labels:
       io.rancher.scheduler.global: 'true'
